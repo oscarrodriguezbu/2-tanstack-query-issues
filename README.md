@@ -16,3 +16,4 @@ Repositorio del proyecto del curso sobre TanStack Query con React
 - TailwindCSS
 - React Router 6+
 - React Icons
+![2-tanstack-query-issues](https://github.com/user-attachments/assets/0c554505-90cb-4dd7-902e-d3656e108343)
